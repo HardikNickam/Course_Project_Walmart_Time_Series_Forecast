@@ -4,7 +4,7 @@ Course_Project_Walmart_Time_Series_Forecast
 # Walmart_Time_Series_Forecast
 
 ## Overview
-This project aims to predict weekly sales for various stores of Walmart using different regression models. The dataset includes various features such as store information, markdowns, and economic indicators, allowing for a comprehensive analysis of sales trends.
+This project aims to predict weekly sales based on time series analysis for various stores of Walmart using different regression models. The dataset includes various features such as store information, markdowns, and economic indicators, allowing for a comprehensive analysis of sales trends.
 
 ## Libraries Used
 - **Python Libraries**:
@@ -84,7 +84,6 @@ The Random Forest Regressor achieved the highest accuracy, making it the preferr
 ## Future Work
 - Experiment with additional regression models and techniques.
 - Perform hyperparameter optimization for existing models.
-- Incorporate time series analysis for improved predictions.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
