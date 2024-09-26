@@ -1,11 +1,10 @@
 Course_Project_Walmart_Time_Series_Forecast
 
-dataset -> https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 
-# Weekly Sales Prediction
+# Walmart_Time_Series_Forecast
 
 ## Overview
-This project aims to predict weekly sales for various stores using different regression models. The dataset includes various features such as store information, markdowns, and economic indicators, allowing for a comprehensive analysis of sales trends.
+This project aims to predict weekly sales for various stores of Walmart using different regression models. The dataset includes various features such as store information, markdowns, and economic indicators, allowing for a comprehensive analysis of sales trends.
 
 ## Libraries Used
 - **Python Libraries**:
